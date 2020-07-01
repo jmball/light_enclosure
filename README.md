@@ -1,1 +1,1 @@
-# ligt_enclosure
+# light_enclosure
